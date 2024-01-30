@@ -1,5 +1,3 @@
-Based on your project description and code snippets, here's a README.md that you can use for your Pixel Art Animator project. This README includes an overview of the project, how to build and run it, and a brief description of the key techniques and classes involved.
-
 ---
 
 # Pixel Art Animator
